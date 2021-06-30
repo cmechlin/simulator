@@ -20,6 +20,11 @@ Copyright (c) 1997-2009 by Secret Labs AB
 Copyright (c) 1995-2009 by Fredrik Lundh
 
 See source code and LICENSE.txt for information on usage and redistribution.
+
+olefile (formerly OleFileIO_PL) is copyright (c) 2005-2020 Philippe Lagadec (http://www.decalage.info)
+
+All rights reserved.
+
 """
 
 # Since olefile v0.47, only Python 2.7 and 3.5+ are supported

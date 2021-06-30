@@ -1,4 +1,12 @@
-# https://olefile.readthedocs.io/en/latest/Howto.html
+"""
+  Using olefile library
+
+  olefile (formerly OleFileIO_PL) is copyright (c) 2005-2020 Philippe Lagadec (http://www.decalage.info)
+
+All rights reserved.
+
+https://olefile.readthedocs.io/en/latest/Howto.html
+"""
 import olefile
 
 """
